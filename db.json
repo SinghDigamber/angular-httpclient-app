@@ -2,15 +2,21 @@
   "employees": [
     {
       "id": 1,
-      "name": "Tony Stark",
+      "name": "Miyoma",
       "email": "asdf",
       "phone": "001-123-4567"
     },
     {
       "id": 2,
-      "name": "Black Widow",
+      "name": "Renhard",
       "email": "black-widow@mcu.com",
       "phone": "001-123-4568"
+    },
+    {
+      "name": "Ombija",
+      "email": "omb@mbn.co",
+      "phone": "012-122-1222",
+      "id": 3
     }
   ]
 }
